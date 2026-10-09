@@ -1,0 +1,7 @@
+
+function convertirGradosFK(grados){
+    
+
+}
+
+
